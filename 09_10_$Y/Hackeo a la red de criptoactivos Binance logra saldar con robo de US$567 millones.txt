@@ -1,0 +1,12 @@
+Hackeo a la red de criptoactivos Binance logra saldar con robo de US$567 millones
+
+La firma ha explicado que el cometido fue posible gracias a un 'exploit', un ataque que aprovecha una vulnerabilidad en el sistema que sirve de puente
+
+El 'exchange' de criptoactivos Binance ha sufrido un robo de dos millones de unidades de 
+ su propia criptodivisa, durante un hackeo a su red de cadena de bloques ('blockchain'), según ha informado este viernes en un comunicado recogido por Europa Press.
+La cotización de BNB se sitúa actualmente en torno a los 290 euros (US$283), por lo que los fondos robados tienen un valor de aproximadamente 580 millones de euros (US$567 millones). Esto supone una cifra mucho mayor que los 100 millones (US$97 millones) que había estimado el fundador de 
+, Changpeng Zao, durante la noche del jueves al viernes.
+La firma ha explicado que el hackeo cometido fue posible gracias a un 'exploit', un ataque que aprovecha una vulnerabilidad en el sistema que sirve de puente entre las redes BNB Beacon Chain y BNB Smart Chain.
+El problema se pudo resolver gracias a que Binance pudo parar por completo las transacciones de su red de cadena de bloques, gracias a que el 'exchange' contactó directamente con las 44 personas que ejercen de "validadores" de la cadena.
+"Las cadenas descentralizadas no están diseñadas para ser detenidas, pero contactando con los validadores de la comunidad uno por uno fuimos capaces de detener el incidente (...) Esto retrasó el cierre, pero pudimos minimizar las pérdidas", ha indicado Binance.
+La firma tiene previsto diseñar un nuevo mecanismo de gobernanza para evitar posibles nuevos ataques en el futuro. Además, pese a este robo, Binance tiene previsto seguir aumentando el número de validadores para lograr una "mayor descentralización", ya que lo consideran un paso "esencial"

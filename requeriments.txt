@@ -1,0 +1,7 @@
+dependencias:
+    lxml
+    autopep8
+    requests
+
+levantar el enviroment:
+    bash: en /larepublica_scrap: $  . venv/bin/activate 
